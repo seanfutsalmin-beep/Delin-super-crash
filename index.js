@@ -943,7 +943,7 @@ return ctx.replyWithPhoto(
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
   ⸸ 𝐀𝐏𝐀 𝐘𝐆 𝐁𝐀𝐑𝐔 ⸸
-  ᯾  All Function new update
+  ᯾  mama mu
   ᯾  Tampilan neww
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
