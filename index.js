@@ -929,7 +929,7 @@ return ctx.replyWithPhoto(
   { url: homePhoto },
     {
       caption: `
-<pre>꧁𖤍꧂  𝐙𝐕𝐗 𝐍𝐈 𝐁𝐎𝐒 ꧁𖤍꧂
+<pre>꧁𖤍꧂  𝐙𝐕𝐗 𝐍𝐈 𝐁𝐎ei𝐒 ꧁𖤍꧂
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   𖧷 こんにちは — ${username}
@@ -943,8 +943,8 @@ return ctx.replyWithPhoto(
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
   ⸸ 𝐀𝐏𝐀 𝐘𝐆 𝐁𝐀𝐑𝐔 ⸸
-  ᯾  mama mu
-  ᯾  Tampilan neww
+  ᯾  await camm
+  ᯾  Tampilan newwjsj
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
   ⸸ 𝗦𝗘𝗖𝗨𝗥𝗜𝗧𝗬 ⸸
