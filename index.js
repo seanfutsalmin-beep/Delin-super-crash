@@ -942,7 +942,7 @@ return ctx.replyWithPhoto(
   ᯾  Dev       @seanoffcx
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ⸸ 𝐀𝐏𝐀 𝐘𝐆 𝐁𝐀𝐑𝐔 ⸸
+  ⸸ 𝐀𝐏𝐀 𝐘𝐆g 𝐁𝐀𝐑𝐔 ⸸
   ᯾  await camm
   ᯾  Tampilan newwjsj
 
