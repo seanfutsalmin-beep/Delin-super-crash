@@ -929,7 +929,7 @@ return ctx.replyWithPhoto(
   { url: homePhoto },
     {
       caption: `
-<pre>꧁𖤍꧂  𝐙𝐀𝐋𝐈𝐍𝐃𝐑𝐀  ꧁𖤍꧂
+<pre>꧁𖤍꧂  𝐙𝐕𝐗 𝐍𝐈 𝐁𝐎𝐒 ꧁𖤍꧂
 ━━━━━━━━━━━━━━━━━━━━━━━━━━
 
   𖧷 こんにちは — ${username}
