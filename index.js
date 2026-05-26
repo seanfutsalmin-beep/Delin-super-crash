@@ -1198,7 +1198,7 @@ Welcome ${ctx.from.first_name}
 <pre>
 إِنَّ الصَّلَاةَ كَانَتْ عَلَى الْمُؤْمِنِينَ كِتَابًا مَوْقُوتً
 “Sesungguhnya salat itu adalah kewajiban yang telah ditentukan waktunya bagi orang-orang beriman.”
-
+zx
 (🎉) ${ctx.from.first_name}
 ─━━━━━⬡  MAINTENANCE  ⬡━━━━━─
 Selamat Datang Di Script Zalindra Invlasion, Silahkan Gunakan Fitur Yg tersedia
